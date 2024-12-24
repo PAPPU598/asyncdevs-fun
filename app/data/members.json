@@ -54,5 +54,14 @@
       "skills": ["c++"],
       "bio": "Quick Learner"
     }
+    {
+      "id": 7,
+      "name": "Shreyaushi Das",
+      "role": "Student at MAKAUT,WB IT",
+      "avatar":"https://github.com/shreyaushi-Das",
+      "github":"shreyaushi-Das",
+      "skills": ["java", "c++"],
+      "bio": "Btech IT student,interested in python,ml"
+    }
   ]
 }
